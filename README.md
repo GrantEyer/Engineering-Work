@@ -1,3 +1,3 @@
 # Work-Experience
 
-This section describes the engineering relted work that I've been a part of.
+This section describes the engineering related work that I've been involved in.
